@@ -1,16 +1,46 @@
-# todo_app
+# ToDo App
 
-A new Flutter project.
+A simple and aesthetic ToDo app built with Dart and Flutter. 
+This app allows users to create new tasks, mark them as completed, 
+and delete them as needed. Perfect for anyone looking for a minimalist and 
+user-friendly task management solution.
 
-## Getting Started
+---------------------------------------------------------------------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+Features:
 
-A few resources to get you started if this is your first Flutter project:
+- Create New Tasks: Add new tasks to your ToDo list.
+- Mark Tasks as Completed: Mark tasks that you have finished.
+- Delete Tasks: Remove tasks that you no longer need.
+- Simple and Aesthetic Design: Enjoy a minimalist and visually appealing design focused on ease of use.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---------------------------------------------------------------------------------------------------------------------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Installation:
+
+1. Install Flutter: Ensure Flutter is installed on your system.
+
+2. Clone the Repository:
+
+  - git clone https://github.com/your-username/todo-app.git
+
+3. Install Dependencies:
+
+  - cd todo-app
+  - flutter pub get
+
+4. Run the App:
+
+  - flutter run
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Contributions:
+
+Contributions are welcome! Please open an issue to report bugs or suggest new features. Pull requests are also appreciated.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+License:
+
+This project is licensed under the MIT License. See the LICENSE file for details.
