@@ -1,9 +1,6 @@
 # ToDo App
 
-![ToDo_App_HomeScreen](https://github.com/user-attachments/assets/38b1d37f-4b44-4a59-a19b-566d46fe71ab)
-![ToDo_App_CreateTask](https://github.com/user-attachments/assets/fea14b75-140d-44a1-a91f-28231e9144de)
-![ToDo![ToDo_App_TaskList](https://github.com/user-attachments/assets/0167a4dc-e626-4b2b-8244-5ae3db07a10e)
-_App_DeleteButton](https://github.com/user-attachments/assets/9834254c-1580-4d9b-b1a3-1cfbef5fdfe4)
+<img src="ToDo_App_HomeScreen.png" width="200px">    <img src="ToDo_App_CreateTask.png" width="200px">    <img src="ToDo_App_TaskList.png" width="200px">    <img src="ToDo_App_DeleteButton.png" width="200px">
 
 
 A simple and aesthetic ToDo app built with Dart and Flutter. 
